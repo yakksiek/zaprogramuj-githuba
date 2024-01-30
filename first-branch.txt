@@ -1,3 +1,5 @@
 first-branch
 
 and third-branch
+
+git amend
